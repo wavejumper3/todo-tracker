@@ -1,7 +1,35 @@
 {
-	"todos": [
-		{ "id": 1, "task": "Learn HTML", "completed": true },
-		{ "id": 2, "task": "Learn CSS", "completed": true },
-		{ "id": 3, "task": "Learn JavaScript", "completed": false }
-	]
+  "todos": [
+    {
+      "task": "put my right foot in",
+      "completed": false,
+      "id": "KIYUPmq7z8k"
+    },
+    {
+      "task": "take my right foot out",
+      "completed": false,
+      "id": "-zbMrX9kfc0"
+    },
+    {
+      "task": "put my right foot in",
+      "completed": false,
+      "id": "evlMP9li0YU"
+    },
+    {
+      "task": "shake it all about",
+      "completed": false,
+      "id": "cpyTp4S5t9A"
+    },
+    {
+      "task": "do the hokey pokey",
+      "completed": false,
+      "id": "x-96aSTJO88"
+    },
+    {
+      "task": "turn myself about",
+      "completed": false,
+      "id": "F9HzNLFZZeg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
