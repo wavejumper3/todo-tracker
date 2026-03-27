@@ -2,12 +2,12 @@
   "todos": [
     {
       "task": "put my right foot in",
-      "completed": false,
+      "completed": true,
       "id": "KIYUPmq7z8k"
     },
     {
       "task": "take my right foot out",
-      "completed": false,
+      "completed": true,
       "id": "-zbMrX9kfc0"
     },
     {
@@ -16,19 +16,24 @@
       "id": "evlMP9li0YU"
     },
     {
-      "task": "shake it all about",
+      "task": "and I shake it all about",
       "completed": false,
       "id": "cpyTp4S5t9A"
     },
     {
-      "task": "do the hokey pokey",
+      "task": "so I do the hokey pokey",
       "completed": false,
       "id": "x-96aSTJO88"
     },
     {
-      "task": "turn myself about",
+      "task": "and I turn myself about",
       "completed": false,
       "id": "F9HzNLFZZeg"
+    },
+    {
+      "task": "(because that's what it's all about!)",
+      "completed": false,
+      "id": "yPoJcx02uXc"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
